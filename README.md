@@ -1,38 +1,49 @@
-# Hi there 👋, I'm Sai Nitish Raju Addepalli
+# Callum Moscrip
 
-**AI/ML Engineer | Specialist in LLMs, NLP & Computer Vision | Building Scalable MLOps Solutions & Responsible AI Products**
+**Director & Research AI Engineer/Computer Vision at Sound Mathematics Ltd.**
 
 ---
 
 ### 🚀 About Me
 
-I am a passionate AI/ML Engineer with expertise in building and deploying scalable machine learning models. My focus is on Large Language Models (LLMs), Natural Language Processing (NLP), and Computer Vision. I specialize in creating robust MLOps pipelines and ensuring responsible AI practices in enterprise environments.
+I have been working as an AI and machine vision researcher for over two years now, focusing on the **CHIMERA project**. I develop AI assessment modules to evaluate the fitness for service of pressure vessels (based on ASME standards) using data from unique ultrasound sensor arrays and integration with **ROS**. 
 
-- 🔭 I’m currently working on **Enterprise-LLM-Ops-Framework** & **GenAI-Agentic-Workflow-Engine**
-- 🌱 I’m currently learning **Advanced Retrieval Augmented Generation (RAG)** & **Edge AI Deployment**
-- 👯 I’m looking to collaborate on **Open Source AI Projects**
-- 💬 Ask me about **Python, PyTorch, Hugging Face, MLOps, Docker, Kubernetes**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sai-nitish-raju-addepalli-a541a8308/)
+My current work involves developing machine learning systems for the interpretation and classification of cracks from **TFM ultrasound images** and maintaining large, unique datasets.
 
----
+Previously, I completed an **MSc in Robotics** at Plymouth University, where I contributed to research on deep learning and instance segmentation for robotic agricultural applications (locating and classifying raspberries).
 
-### 🛠️ Tech Stack
-
-- **Languages:** Python, C++, SQL
-- **Frameworks:** PyTorch, TensorFlow, Keras, Hugging Face Transformers, LangChain
-- **MLOps:** MLflow, Kubeflow, Docker, Kubernetes, Jenkins, GitHub Actions
-- **Databases:** PostgreSQL, MongoDB, Pinecone, Weaviate
-- **Cloud:** AWS (SageMaker, Lambda), GCP (Vertex AI), Azure ML
+I have a strong theoretical understanding of machine learning and practical skills in **Python, C++, Keras, and TensorFlow**. My expertise covers SLAM, natural language processing, ANNs, and active stereo vision tracking.
 
 ---
 
-### 📊 GitHub Stats
+### 💼 Experience
 
-![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=vilcasantos&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vilcasantos&layout=compact&theme=radical)
+- **Director** @ Sound Mathematics Ltd. (2023 - Present)
+- **Research AI Engineer/Computer Vision** @ Sound Mathematics Ltd. (2019 - Present)
+- **Machine Vision Engineer (Contract)** @ FIELDWORK ROBOTICS LIMITED (2018)
+    - Data collection and preparation for instance segmentation deep learning systems.
+- **Course Manager & Senior Physics Lecturer** @ The Cornwall College Group (2015 - 2017)
+- **Lecturer In Physics** @ Southdowns College (2011 - 2015)
 
 ---
 
-### 🔗 Connect with Me
+### 🎓 Education
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-nitish-raju-addepalli-a541a8308/)
+- **MSc in Robotics** - University of Plymouth (2017 - 2018)
+- **PGCE in Further Education** - University of Portsmouth (2011 - 2013)
+- **BSc in Physics** - University of Sussex (1998 - 2003)
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+- **Languages:** Python, C++
+- **Frameworks:** Keras, TensorFlow, ROS
+- **Expertise:** AI, Machine Learning, Computer Vision, SLAM, NLP, Deep Learning, Instance Segmentation
+- **Other:** Research, Physics, Teaching
+
+---
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/callum-moscrip)
